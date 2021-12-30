@@ -1,0 +1,87 @@
+body{
+    background-color:lightseagreen;
+}
+
+.heading{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 24px;
+    font-weight: bold;
+    color:seagreen;
+    background-color: silver;
+}
+
+.heading2{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+}
+
+#img{
+   width: 100px;
+   margin-top: 10px;
+}
+
+.heading3{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+
+#casestudy{
+    background-color: gray;
+    width: 1000px;
+    margin-bottom: 10px;
+    margin-top: 40px;  
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    color: black;
+}
+
+.img-responsive{
+    width: 300px;
+    height: 400px;
+}
+
+#result{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 20px;
+}
+
+#result2{
+    font-weight: bold;
+}
+
+b{
+    color:white;
+}
+
+#done{
+    background-color: lightcoral;
+    width: 900px;
+    margin-top: 5000px;  
+    margin-bottom: 70px;
+    margin-right: 55px;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+#ultimateResult{
+    color: midnightblue;
+    font-size: 25px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.copy-right-footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    background-color:white;
+    line-height: 3;
+    text-align: center;
+}
